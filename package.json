@@ -1,0 +1,19 @@
+{
+    "name": "nsblob64",
+    "description": "nsblob with base64 hashes",
+    "version": "0.2.21",
+    "main": "lib/index.js",
+    "bin": {
+        "nsblob64": "lib/cli.js"
+    },
+    "author": "Prokop Schield",
+    "dependencies": {
+        "@prokopschield/base64": "^0.1.0-1",
+        "nsblob": "^0.2.21"
+    },
+    "devDependencies": {
+        "@types/node": ">=16"
+    },
+    "keywords": [],
+    "license": "GPL-3.0-or-later"
+}
