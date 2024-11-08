@@ -1,7 +1,7 @@
 {
     "name": "nsblob64",
     "description": "nsblob with base64 hashes",
-    "version": "0.2.25",
+    "version": "0.2.26",
     "main": "lib/index.js",
     "bin": {
         "nsblob64": "lib/cli.js"
@@ -9,7 +9,7 @@
     "author": "Prokop Schield",
     "dependencies": {
         "@prokopschield/base64": "^0.1.0-2",
-        "nsblob": "^0.2.25"
+        "nsblob": "^0.2.26"
     },
     "devDependencies": {
         "@types/node": ">=16"
